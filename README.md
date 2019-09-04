@@ -1,3 +1,13 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-69533863-12"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-69533863-12');
+</script>
+
 [**Home**](./README.md) |
 [**Academic**](./pages/academic.md) |
 [**Experiences**](./pages/experiences.md) |
