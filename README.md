@@ -27,7 +27,7 @@
       <a href="https://twitter.com/kaadmadumali"><img src="./icons/32x/twitter.png"></a>
     </td>
     <td align="justify">
-      <h2>DARSHANI MADUMALI &nbsp;<span style="color: gray; font-size: small;">B.Sc. (Hons) in Agricultural Resource Management & Technology, GREENSL® AP (GBCSL)</span></h2>
+      <h2>DARSHANI MADUMALI <br/><span style="color: gray; font-size: small;">B.Sc. (Hons) in Agricultural Resource Management & Technology, GREENSL® AP (GBCSL)</span></h2>
       <h4>Assistant Manager - Membership, Public Relations & Media | Green Enthusiast</h4>
       <p>I am a passionate Researcher with the curiosity of learning new trends and cutting-edge technologies. Currently work as the Assistant Manager - Membership, Public Relations & Media at Green Building Council of Sri Lanka where I am engaging in recruiting Associate, Accredited and Corporate members to the council. I also manages all the social media and web platform of the council.</p>
       <p>I completed my degree, B.Sc. in Agricultural Resource Management and Technology at the University of Ruhuna, Sri Lanka in 2018.</p>
