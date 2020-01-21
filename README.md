@@ -22,7 +22,7 @@
   <tr>
     <td align="center">
       <img src="./images/profile.jpg"><br/><br/>
-      <b>Email:</b><br/><a href="mailto:kaadmadumali@gmail.com">kaadmadumali@gmail.com</a><br/><a>
+      <b>Email:</b><br/><a href="mailto:kaadmadumali@gmail.com">kaadmadumali@gmail.com</a><br/>
       <a href="https://www.linkedin.com/in/darshanimadumali"><img src="./icons/32x/linkedin.png"></a>&nbsp;&nbsp;
       <a href="https://twitter.com/kaadmadumali"><img src="./icons/32x/twitter.png"></a>
     </td>
