@@ -18,20 +18,25 @@
 
 ---
 
+## DARSHANI MADUMALI &nbsp;<span style="color: gray; font-size: small;">B.Sc. (Hons) in Agricultural Resource Management & Technology, GREENSL® AP (GBCSL)</span>
+##### Assistant Manager - Membership, Public Relations & Media | Green Enthusiast
+
 <table>
   <tr>
     <td align="center">
-      <img src="./images/profile.jpg"><br/><br/>
-      <b>Email:</b><br/><a href="mailto:kaadmadumali@gmail.com">kaadmadumali@gmail.com</a><br/>
-      <a href="https://www.linkedin.com/in/darshanimadumali"><img src="./icons/32x/linkedin.png"></a>&nbsp;&nbsp;
-      <a href="https://twitter.com/kaadmadumali"><img src="./icons/32x/twitter.png"></a>
+      <img src="./images/profile.jpg">
     </td>
-    <td align="justify">
-      <h2>DARSHANI MADUMALI <br/><span style="color: gray; font-size: small;">B.Sc. (Hons) in Agricultural Resource Management & Technology, GREENSL® AP (GBCSL)</span></h2>
-      <h4>Assistant Manager - Membership, Public Relations & Media | Green Enthusiast</h4>
-      <p>I am a passionate Researcher with the curiosity of learning new trends and cutting-edge technologies. Currently work as the Assistant Manager - Membership, Public Relations & Media at Green Building Council of Sri Lanka where I am engaging in recruiting Associate, Accredited and Corporate members to the council. I also manages all the social media and web platform of the council.</p>
-      <p>I completed my degree, B.Sc. in Agricultural Resource Management and Technology at the University of Ruhuna, Sri Lanka in 2018.</p>
-      <p>I love traveling, exploring new destinations, cultures and capture memories into beautiful pictures.</p>
+    <td>
+      <b>Mobile:</b> <a href="tel:+94775962256">+94 77 59 62 256</a><br/>
+      <b>Email:</b> <a href="mailto:kaadmadumali@gmail.com">kaadmadumali@gmail.com</a><br/><br/>
+      <a href="https://linkedin.com/in/darshanimadumali"><img src="./icons/32x/linkedin.png"></a>&nbsp;&nbsp;
+      <a href="https://twitter.com/kaadmadumali"><img src="./icons/32x/twitter.png"></a>
     </td>
   </tr>
 </table>
+
+I am a passionate Researcher with the curiosity of learning new trends and cutting-edge technologies. Currently work as the Assistant Manager - Membership, Public Relations & Media at [Green Building Council of Sri Lanka](https://www.srilankagbc.org) where I am engaging in recruiting Associate, Accredited and Corporate members to the council. I also manages all the social media and web platform of the council.
+
+I completed my degree, B.Sc. in Agricultural Resource Management and Technology at the University of Ruhuna, Sri Lanka in 2018.
+
+I love traveling, exploring new destinations, cultures and capture memories into a beautiful picture.
