@@ -8,8 +8,8 @@
   gtag('config', 'UA-69533863-12');
 </script>
 
-<h4>DARSHANI MADUMALI &nbsp;<span style="color: gray; font-size: small;">B.Sc. (Hons) in Agricultural Resource Management & Technology, GREENSL® AP (GBCSL)</span></h4>
-<h6>Assistant Manager - Membership, Public Relations & Media | Green Enthusiast</h6>
+#### DARSHANI MADUMALI &nbsp;<span style="color: gray; font-size: small;">B.Sc. (Hons) in Agricultural Resource Management & Technology, GREENSL® AP (GBCSL)</span>
+###### Assistant Manager - Membership, Public Relations & Media | Green Enthusiast
 
 ---
 
