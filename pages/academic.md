@@ -27,7 +27,7 @@
 
 <table>
   <tr>
-    <td><img src="../images/uor.jpg" width="125"></td>
+    <td><img src="../images/uor.png" width="125"></td>
     <td>
       <b>Second Class Upper Division</b> in <b>Bachelor of Science of Agricultural Resource Management and Technology (Hons.)</b>
       specialized in <b>Crop Science</b><br/><br/>

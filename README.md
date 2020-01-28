@@ -24,7 +24,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="./images/profile.jpeg">
+      <img src="./images/profile.jpg">
     </td>
     <td>
       <b>Mobile:</b> <a href="tel:+94775962256">+94 77 59 62 256</a><br/>

@@ -29,7 +29,7 @@
 
 <table>
   <tr>
-    <td><img src="../images/gbcsl.jpg"></td>
+    <td><img src="../images/gbcsl.png"></td>
     <td>
       <a href="https://www.srilankagbc.org">Green Building Council of Sri Lanka (GBCSL)</a> is the Sri Lanka’s leading authority on implementing green concept and green building practices. The GBCSL is a member of World Green Building Council , assure the international recognition, which represents about 80 countries ranging from developed to developing nations.
     </td>
@@ -51,7 +51,7 @@
 
 <table>
   <tr>
-    <td><img src="../images/gbcsl.jpg"></td>
+    <td><img src="../images/gbcsl.png"></td>
     <td>
       <a href="https://www.srilankagbc.org">Green Building Council of Sri Lanka (GBCSL)</a> is the Sri Lanka’s leading authority on implementing green concept and green building practices. The GBCSL is a member of World Green Building Council , assure the international recognition, which represents about 80 countries ranging from developed to developing nations.
     </td>
@@ -95,7 +95,7 @@
 
 <table>
   <tr>
-    <td><img src="../images/uor.jpg"></td>
+    <td><img src="../images/uor.png"></td>
     <td>
       The computer unit facilitates and assists students to acquire computer literacy through the designed courses such as Computer Awareness, Information and Communication Technology, Database Systems, and Rapid Application Developments. In addition, the unit provides the facilities for all other 7 departments for reference activities of the students and other practical classes of Statistical application packages, GIS and Remote sensing applications and soft skill development.
     </td>
