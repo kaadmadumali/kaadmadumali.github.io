@@ -27,7 +27,7 @@
       <img src="./images/profile.jpg">
     </td>
     <td>
-      <b>Mobile:</b> <a href="tel:+94775962256">+94 77 59 62 256</a><br/>
+      <b>Mobile:</b> <a href="tel:+94702455525">+94 70 24 55 525</a><br/>
       <b>Email:</b> <a href="mailto:kaadmadumali@gmail.com">kaadmadumali@gmail.com</a><br/><br/>
       <a href="https://linkedin.com/in/darshanimadumali"><img src="./icons/32x/linkedin.png"></a>&nbsp;&nbsp;
       <a href="https://twitter.com/kaadmadumali"><img src="./icons/32x/twitter.png"></a>
