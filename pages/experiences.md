@@ -53,17 +53,17 @@
 </table>
 
 - Issued three publications of the Green Guardian - Volume 01. Working as the Chief Editor of the Editorial Board of the Green Guardian.
-  - Renewable Energy - https://srilankagbc.org/renewable-energy/
-  - Sustainable Tourism - https://srilankagbc.org/sustainable-tourism/
-  - Green Cities - https://srilankagbc.org/green-cities/
+  - Renewable Energy - [https://srilankagbc.org/renewable-energy/](https://srilankagbc.org/renewable-energy/)
+  - Sustainable Tourism - [https://srilankagbc.org/sustainable-tourism/](https://srilankagbc.org/sustainable-tourism/)
+  - Green Cities - [https://srilankagbc.org/green-cities/](https://srilankagbc.org/green-cities/)
 
 - Introduced special awards categories to recognize the commitment made by different companies, institutes and personalities in the country for the environmental sustainability. This was introduced and implemented to commemorate the 10th Anniversary of the council. Following were the awardees of year 2019.
   - Excellent Green Commitment Award 2019 - Corporate Sector - [Siam City Cement (Lanka) Limited](http://www.siamcitycement.com/lk/home), [Tokyo Super Company (Pvt) Ltd.](http://tokyocement.com/), [Hirdaramani Group of Companies](http://www.hirdaramani.com/).
-  - Excellent Green Commitment Award 2019 - Banking Sector - [Commercial Bank of Ceylon PLC] (https://www.combank.net/).
+  - Excellent Green Commitment Award 2019 - Banking Sector - [Commercial Bank of Ceylon PLC](https://www.combank.net/).
   - Excellent Green Commitment Award 2019 - School Sector - [Devi Balika Vidyalaya, Colombo 08](http://www.devibalika.com).
   - Outstanding Green Professional of the Year Award - [Nanda Abeysekera](https://www.linkedin.com/in/nandaabeysekera/).
 
-- Coordinated the Media Conference for 10th Anniversary Celebrations. The event was held at the Nippon Hotel, Colombo with the participation of the Board of Directors, GBCSL. Representing  electronic and print media of Sri Lanka, journalists from Hiru TV, Siyatha TV, Rupavahini, TV Derana, ITN, Swarnavahini, Sirasa TV, Siyatha FM, Hiru FM, Sirasa FM, SLBC,Ada Newspaper, Sathi Aga Aruna Newspaper, Lakehouse and Wijaya Newspaper, etc. participated in the event.
+- Coordinated the Media Conference for 10th Anniversary Celebrations. The event was held at the Nippon Hotel, Colombo with the participation of the Board of Directors, GBCSL. Representing  electronic and print media of Sri Lanka, journalists from Hiru TV, Siyatha TV, Rupavahini, TV Derana, ITN, Swarnavahini, Sirasa TV, Siyatha FM, Hiru FM, Sirasa FM, SLBC, Ada Newspaper, Sathi Aga Aruna Newspaper, Lakehouse and Wijaya Newspaper, etc. participated in the event.
 
 - Coordinated the 10th Anniversary Celebrations and Green Building Awards 2019 of Green Building Council of Sri Lanka.
   - Green Building Awards is the ceremonial event which offers awards and certificates to Green SL Rated Buildings and Green SL Labelled Products. This also offers awards and certificates to the Corporate, Accredited and Associate Members of the GBCSL who enlisted in the respective year.
@@ -108,10 +108,11 @@
 </table>
 
 - I joined the research conducted in Plant taxonomy and Conservation sub division which comes under the Earth, Environment and BioDiversity main division, out of six main divisions of the NIFS. Major areas covered in this program include
-  - a) taxonomic and bio-geographical studies of the flora of Sri Lanka,
-  - b) preparation of the National red list for flora,
-  - c) sustainable of use of plants,
-  - d) factors affecting the conservation of flora of Sri Lanka including Invasive Alien Species, and e) restoration ecology.
+  - taxonomic and bio-geographical studies of the flora of Sri Lanka
+  - preparation of the national red list for flora
+  - sustainable of use of plants
+  - factors affecting the conservation of flora of Sri Lanka including Invasive Alien Species
+  - restoration ecology
 
 - With regard to this I participated in several field visits to Herbarium, National Botanical Gardens, Peradeniya , prepared herbariums according to standards and conducted seed germination tests and soil tests.
 
