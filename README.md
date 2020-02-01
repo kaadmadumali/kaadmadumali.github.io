@@ -35,8 +35,8 @@
   </tr>
 </table>
 
-I am a passionate Researcher with the curiosity of learning new trends and cutting-edge technologies. Currently work as the Assistant Manager - Membership, Public Relations & Media at [Green Building Council of Sri Lanka](https://www.srilankagbc.org) where I am engaging in recruiting Associate, Accredited and Corporate members to the council. I also manages all the social media and web platform of the council.
+I am a passionate Researcher with the curiosity of learning new trends and cutting-edge technologies. Currently work as the Assistant Manager - Membership, Public Relations & Media at [Green Building Council of Sri Lanka](https://www.srilankagbc.org) where I am engaging in recruiting Associate, Accredited and Corporate members to the council. I also manage the social media network and web platform of the council.
 
 I completed my degree, B.Sc. in Agricultural Resource Management and Technology at the University of Ruhuna, Sri Lanka in 2018.
 
-I love traveling, exploring new destinations, cultures and capture memories into a beautiful picture.
+I love travelling, exploring new destinations, cultures and capturing memories into a beautiful picture.
