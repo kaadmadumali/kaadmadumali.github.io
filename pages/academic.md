@@ -46,4 +46,8 @@
 
 - **“Effect of Improving Indoor Air Quality Using Some Selected C3 Plants and CAM Plants”** at 9th International Conference on Sustainable Built Environment, Kandy, Sri Lanka.
 
+This is research based on identification of appropriate plant species effective in improving indoor air quality by absorbing CO2 during day time and at night. Research was done to address the issue of deteriorating indoor air quality in highly congested, ill-ventilated and ill-lit abodes in urbanized areas.
+
 - **“Effect of Some Selected Plant Species in Ameliorating Indoor CO2 Concentration”** at 2nd International Research Symposium at Uva Wellassa University, Sri Lanka.
+
+This is research based on identification of appropriate plant species effective in improving indoor air quality by absorbing CO2 during day time and at night. Research was done to address the issue of deteriorating indoor air quality in highly congested, ill-ventilated and ill-lit abodes in urbanized areas.
