@@ -8,7 +8,7 @@
   gtag('config', 'UA-69533863-12');
 </script>
 
-[**Home**](./README.md) |
+**Home** |
 [**Academic**](./pages/academic.md) |
 [**Experiences**](./pages/experiences.md) |
 [**Awards**](./pages/awards.md) |

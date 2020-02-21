@@ -15,7 +15,7 @@
 
 [**Home**](../README.md) |
 [**Academic**](./academic.md) |
-[**Experiences**](./experiences.md) |
+**Experiences** |
 [**Awards**](./awards.md) |
 [**Projects**](./projects.md) |
 [**Blog**](https://medium.com/@ldclakmal) |

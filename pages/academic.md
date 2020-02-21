@@ -14,7 +14,7 @@
 ---
 
 [**Home**](../README.md) |
-[**Academic**](./academic.md) |
+**Academic** |
 [**Experiences**](./experiences.md) |
 [**Awards**](./awards.md) |
 [**Projects**](./projects.md) |
