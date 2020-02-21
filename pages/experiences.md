@@ -36,9 +36,9 @@
   </tr>
 </table>
 
-- Involves in recruiting Associate Professionals and Accredited Professionals to the council.
-- Involves in granting Corporate Memberships to companies and institutes.
-- Engaged in managing social media and web platforms of the council.
+- Involve in recruiting Associate Professionals and Accredited Professionals to the council.
+- Involve in granting Corporate Memberships to companies and institutes.
+- Engage in managing social media and web platforms of the council.
 - Working as the Chief Editor - [**Green Guardian**](https://srilankagbc.org/category/green-guardian/) magazine, the bimonthly green building publication focusing on trends in green building construction, certified solutions and sustainability stories.
 
 #### Executive - Membership, Public Relations & Media - Green Building Council of Sri Lanka [May 2019 – Nov 2019]
