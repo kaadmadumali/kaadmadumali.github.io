@@ -31,7 +31,7 @@
   <tr>
     <td><img src="../images/gbcsl.png"></td>
     <td>
-      <a href="https://www.srilankagbc.org">Green Building Council of Sri Lanka (GBCSL) is Sri Lanka’s leading authority on implementing green concept and green building practices. The GBCSL is a member of the World Green Building Council , assuring international recognition, which represents about 80 countries ranging from developed to developing nations.
+      <a href="https://www.srilankagbc.org">Green Building Council of Sri Lanka (GBCSL)</a> is Sri Lanka’s leading authority on implementing green concept and green building practices. The GBCSL is a member of the World Green Building Council , assuring international recognition, which represents about 80 countries ranging from developed to developing nations.
     </td>
   </tr>
 </table>
