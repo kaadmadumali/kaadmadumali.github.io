@@ -11,8 +11,8 @@
 **Home** |
 [**Academic**](./pages/academic.md) |
 [**Experiences**](./pages/experiences.md) |
-[**Awards**](./pages/certifications.md) |
-[**Projects**](./pages/projects.md) 
+[**Certifications**](./pages/certifications.md) |
+[**Projects**](./pages/projects.md)
 
 ---
 
