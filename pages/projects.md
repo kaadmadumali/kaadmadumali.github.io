@@ -16,10 +16,8 @@
 [**Home**](../README.md) |
 [**Academic**](./academic.md) |
 [**Experiences**](./experiences.md) |
-[**Awards**](./awards.md) |
-**Projects** |
-[**Blog**](https://medium.com/@ldclakmal) |
-[**Misc.**](./misc.md)
+[**Certifications**](./certifications.md) |
+**Projects** 
 
 ---
 

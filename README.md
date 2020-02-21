@@ -11,10 +11,8 @@
 **Home** |
 [**Academic**](./pages/academic.md) |
 [**Experiences**](./pages/experiences.md) |
-[**Awards**](./pages/awards.md) |
-[**Projects**](./pages/projects.md) |
-[**Blog**](https://medium.com/@ldclakmal) |
-[**Misc.**](./pages/misc.md)
+[**Awards**](./pages/certifications.md) |
+[**Projects**](./pages/projects.md) 
 
 ---
 
