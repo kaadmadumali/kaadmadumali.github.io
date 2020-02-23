@@ -17,7 +17,7 @@
 [**Academic**](./academic.md) |
 [**Experiences**](./experiences.md) |
 [**Certifications**](./certifications.md) |
-**Projects** 
+**Projects**
 
 ---
 
@@ -25,7 +25,7 @@
 
 #### Conceptual green building project [Jan 2019 – Mar 2019]
 
-Green Multistorey Commercial Building Project was implemented as the group project of Associate Professional Training course. A conceptual green building was designed as per the case study we have been given. The building and the site were developed inculcating the green features and the project won the GREEN SL&reg; Platinum status at the final presentation
+Green multi-storey commercial building project was implemented as the group project of Associate Professional Training course. A conceptual green building was designed as per the case study we have been given. The building and the site were developed inculcating the green features and the project won the GREEN SL&reg; Platinum status at the final presentation
 
 #### Classified green building rating project [Jan 2019 - Present]
 
