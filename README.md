@@ -22,7 +22,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="./images/profile.jpg">
+      <img src="./images/profile.png">
     </td>
     <td>
       <b>Mobile:</b> <a href="tel:+94702455525">+94 70 24 55 525</a><br/>
