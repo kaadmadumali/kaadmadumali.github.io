@@ -8,11 +8,6 @@
   gtag('config', 'UA-69533863-12');
 </script>
 
-#### DARSHANI MADUMALI &nbsp;<span style="color: gray; font-size: small;">B.Sc. (Hons) in Agricultural Resource Management & Technology, GREENSL® AP (GBCSL)</span>
-###### Assistant Manager - Membership, Public Relations & Media | Green Enthusiast
-
----
-
 [**Home**](../README.md) |
 [**Academic**](./academic.md) |
 **Experiences** |
@@ -21,9 +16,9 @@
 
 ---
 
-### PROFESSIONAL EXPERIENCES
+## PROFESSIONAL EXPERIENCES
 
-#### Assistant Manager - Membership, Public Relations & Media - Green Building Council of Sri Lanka [Nov 2019 – Present]
+### Assistant Manager - Membership, Public Relations & Media - Green Building Council of Sri Lanka [Nov 2019 – Present]
 
 <table>
   <tr>
@@ -39,7 +34,7 @@
 - Engage in managing social media and web platforms of the council.
 - Working as the Chief Editor - [**Green Guardian**](https://srilankagbc.org/category/green-guardian/) magazine, the bimonthly green building publication focusing on trends in green building construction, certified solutions and sustainability stories.
 
-#### Executive - Membership, Public Relations & Media - Green Building Council of Sri Lanka [May 2019 – Nov 2019]
+### Executive - Membership, Public Relations & Media - Green Building Council of Sri Lanka [May 2019 – Nov 2019]
 
 <table>
   <tr>
@@ -66,7 +61,7 @@
 - Coordinated the 10th Anniversary Celebrations and Green Building Awards 2019 of Green Building Council of Sri Lanka.
   - Annual Green Building Awards is the ceremonial event which offers awards and certificates to Green SL Rated Buildings and Green SL Labelled Products. This also offers awards and certificates to the Corporate, Accredited and Associate Members of the GBCSL who enlisted in the respective year.
 
-#### Management Trainee - Green Building Council of Sri Lanka [Nov 2018 – May 2019]
+### Management Trainee - Green Building Council of Sri Lanka [Nov 2018 – May 2019]
 
 <table>
   <tr>
@@ -82,11 +77,11 @@
 - Coordinated 7th Green Building Awards 2019 of Green Building Council of Sri Lanka.
   - Annual Green Building Awards is the ceremonial event which offers awards and certificates to Green SL Rated Buildings and Green SL Labelled Products. This also offers awards and certificates to the Corporate, Accredited and Associate Members of the GBCSL who enlisted in the respective year.
 
-#### Organizer/Event Coordinator of 9th International Conference on Sustainable Built Environment
+### Organizer/Event Coordinator of 9th International Conference on Sustainable Built Environment
 
 International Conference on Sustainable Built Environment is an annually held conference which provides a platform for the researchers and scientists to publish their research works, innovations and to have discussions on science related topics. The event was on 13th, 14th and 15th December 2018 at Earl's Regency Hotel, Kandy with the participation of several local and foreign professors, researchers, etc.
 
-#### Demonstrator - Computer Unit, Faculty of Agriculture, University of Ruhuna [Apr 2018 – Nov 2018]
+### Demonstrator - Computer Unit, Faculty of Agriculture, University of Ruhuna [Apr 2018 – Nov 2018]
 
 <table>
   <tr>
@@ -100,7 +95,7 @@ International Conference on Sustainable Built Environment is an annually held co
 - Conducted practical classes for undergraduates related to the above courses: Computer Awareness, Information and Communication Technology, Database Systems, and Rapid Application Developments.
 - Maintained the faculty network system and assisted with all of the hardware and software problems of the computers in the Dean’s office, library and every department of the faculty.
 
-#### Research Intern - National Institute of Fundamental Studies (NIFS), Sri Lanka [May 2017 – Dec 2017]
+### Research Intern - National Institute of Fundamental Studies (NIFS), Sri Lanka [May 2017 – Dec 2017]
 
 <table>
   <tr>

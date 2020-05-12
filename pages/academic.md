@@ -8,11 +8,6 @@
   gtag('config', 'UA-69533863-12');
 </script>
 
-#### DARSHANI MADUMALI &nbsp;<span style="color: gray; font-size: small;">B.Sc. (Hons) in Agricultural Resource Management & Technology, GREENSL® AP (GBCSL)</span>
-###### Assistant Manager - Membership, Public Relations & Media | Green Enthusiast
-
----
-
 [**Home**](../README.md) |
 **Academic** |
 [**Experiences**](./experiences.md) |
@@ -21,7 +16,7 @@
 
 ---
 
-### ACADEMIC QUALIFICATIONS
+## ACADEMIC QUALIFICATIONS
 
 <table>
   <tr>
@@ -38,9 +33,9 @@
 
 ---
 
-### RESEARCH & PUBLICATIONS
+## RESEARCH & PUBLICATIONS
 
-#### Research Publications
+### Research Publications
 
 - **“Effect of Improving Indoor Air Quality Using Some Selected C3 Plants and CAM Plants”** at 9th International Conference on Sustainable Built Environment, Kandy, Sri Lanka.
 

@@ -16,7 +16,7 @@
 
 ---
 
-## DARSHANI MADUMALI &nbsp;<span style="color: gray; font-size: small;">B.Sc. (Hons) in Agricultural Resource Management & Technology, GREENSL® AP (GBCSL)</span>
+# DARSHANI MADUMALI &nbsp;<span style="color: gray; font-size: small;">B.Sc. (Hons) in Agricultural Resource Management & Technology, GREENSL® AP (GBCSL)</span>
 ##### Assistant Manager - Membership, Public Relations & Media | Green Enthusiast
 
 <table>
@@ -38,3 +38,5 @@ I am a passionate Researcher with the curiosity of learning new trends and cutti
 I completed my degree, B.Sc. in Agricultural Resource Management and Technology at the University of Ruhuna, Sri Lanka in 2018.
 
 I love travelling, exploring new destinations, cultures and capturing memories into a beautiful picture.
+
+---
