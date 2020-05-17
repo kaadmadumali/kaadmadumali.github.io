@@ -38,6 +38,6 @@ This was a group research based on the evaluation of the people’s awareness of
 
 This was a group project aimed on assessing the post-harvest losses of harvested fruits and vegetables from field to the market. Under this, post-harvest chain of Fruits Farm, Embilipitiya to the Public Market, Matara was evaluated and possible suggestions were introduced to minimize the losses.
 
-### "හරිත දරුවෝ" Art competition at World Health Day 2019 by WHO, Sri Lanka [7 April, 2019]
+### "හරිත දරුවෝ" [“Haritha Daruwoo”] Art competition at World Health Day 2019 by WHO, Sri Lanka [7 April, 2019]
 
 Coordinated the Art Competition hosted by Green Building Council of Sri Lanka  with the exhibition held in commemoration of the World Health Day, organized by World Health Organization - Sri Lanka, under the theme "Universal Health Coverage: Everyone, Everywhere". Art Competition, titled “"හරිත දරුවෝ" was organized to stir the interest of young minds and leverage child advocacy in the environmental conservation efforts towards sustainable development in the country. The drawings done by the children were featured in the “Green Guardian”, the bi-monthly newsletter of the GBCSL. All the participants were gifted with a native plant to disseminate   the “Green Velvet” campaign in an effort to contribute 1 Mn trees to the tree cover in Sri Lanka.

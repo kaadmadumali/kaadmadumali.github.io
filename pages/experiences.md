@@ -29,10 +29,13 @@
   </tr>
 </table>
 
+- Manage and oversee Membership, Public Relations & Media Division which involves working with a wide range of counterparts and stakeholders of both government and private sector.
 - Involve in recruiting Associate Professionals and Accredited Professionals to the council.
-- Involve in granting Corporate Memberships to companies and institutes.
-- Engage in managing social media and web platforms of the council.
-- Working as the Chief Editor - [**Green Guardian**](https://srilankagbc.org/category/green-guardian/) magazine, the bimonthly green building publication focusing on trends in green building construction, certified solutions and sustainability stories.
+- Involve in granting Corporate Memberships to companies and institutes of both government and private sector.
+- Manage overall social media network (Facebook, LinkedIn, YouTube) and web platform of GBCSL.
+- Coordinate corporate visits, project discussions/meetings/visits of the ongoing/past projects of green rated buildings. 
+- Coordinate discussions/meetings/visits with the printed and electronic media organizations.
+- Working as the Chief Editor - [Green Guardian](https://srilankagbc.org/category/green-guardian/) magazine, the bimonthly green building publication focusing on trends in green building construction, certified solutions and sustainability.
 
 ### Executive - Membership, Public Relations & Media - Green Building Council of Sri Lanka [May 2019 – Nov 2019]
 
@@ -45,19 +48,16 @@
   </tr>
 </table>
 
-- Issued three publications of the Green Guardian - Volume 01. Working as the Chief Editor of the Editorial Board of the Green Guardian.
+- Issued three publications of the [Green Guardian](https://srilankagbc.org/category/green-guardian/) magazine, working as the Chief Editor of the Editorial Board of the Green Guardian.
   - Renewable Energy - [https://srilankagbc.org/renewable-energy/](https://srilankagbc.org/renewable-energy/)
   - Sustainable Tourism - [https://srilankagbc.org/sustainable-tourism/](https://srilankagbc.org/sustainable-tourism/)
   - Green Cities - [https://srilankagbc.org/green-cities/](https://srilankagbc.org/green-cities/)
-
 - Introduced special awards categories to recognize the commitment made by different companies, institutes and personalities in the country for the environmental sustainability. This was introduced and implemented to commemorate the 10th Anniversary of the council. Following were the awardees of the year 2019.
-  - Excellent Green Commitment Award 2019 - Corporate Sector - [Siam City Cement (Lanka) Limited](http://www.siamcitycement.com/lk/home), [Tokyo Super Company (Pvt) Ltd.](http://tokyocement.com/), [Hirdaramani Group of Companies](http://www.hirdaramani.com/).
-  - Excellent Green Commitment Award 2019 - Banking Sector - [Commercial Bank of Ceylon PLC](https://www.combank.net/).
-  - Excellent Green Commitment Award 2019 - School Sector - [Devi Balika Vidyalaya, Colombo 08](http://www.devibalika.com).
-  - Outstanding Green Professional of the Year Award - [Nanda Abeysekera](https://www.linkedin.com/in/nandaabeysekera/).
-
+  - Excellent Green Commitment Award 2019 - Corporate Sector
+  - Excellent Green Commitment Award 2019 - Banking Sector
+  - Excellent Green Commitment Award 2019 - School Sector
+  - Outstanding Green Professional of the Year Award
 - Coordinated the Media Conference for 10th Anniversary Celebrations. The event was held at the Nippon Hotel, Colombo with the participation of the Board of Directors, GBCSL. Representing  electronic and print media of Sri Lanka, journalists from Hiru TV, Siyatha TV, Rupavahini, TV Derana, ITN, Swarnavahini, Sirasa TV, Siyatha FM, Hiru FM, Sirasa FM, SLBC, Ada Newspaper, Sathi Aga Aruna Newspaper, Lakehouse and Wijaya Newspaper, etc. participated in the event.
-
 - Coordinated the 10th Anniversary Celebrations and Green Building Awards 2019 of Green Building Council of Sri Lanka.
   - Annual Green Building Awards is the ceremonial event which offers awards and certificates to Green SL Rated Buildings and Green SL Labelled Products. This also offers awards and certificates to the Corporate, Accredited and Associate Members of the GBCSL who enlisted in the respective year.
 
@@ -92,8 +92,8 @@ International Conference on Sustainable Built Environment is an annually held co
   </tr>
 </table>
 
-- Conducted practical classes for undergraduates related to the above courses: Computer Awareness, Information and Communication Technology, Database Systems, and Rapid Application Developments.
 - Maintained the faculty network system and assisted with all of the hardware and software problems of the computers in the Dean’s office, library and every department of the faculty.
+- Conducted practical classes for undergraduates related to the above courses: Computer Awareness, Information and Communication Technology, Database Systems, and Rapid Application Developments.
 
 ### Research Intern - National Institute of Fundamental Studies (NIFS), Sri Lanka [May 2017 – Dec 2017]
 
@@ -113,6 +113,6 @@ International Conference on Sustainable Built Environment is an annually held co
   - factors affecting the conservation of flora of Sri Lanka including Invasive Alien Species
   - restoration ecology
 
-- With regard to this, I participated in several field visits to Herbarium, National Botanical Gardens, Peradeniya , prepared herbariums according to standards and conducted seed germination tests and soil tests.
-
+- With regard to this, I participated in several field visits to Herbarium, National Botanical Gardens, Peradeniya.
+- Prepared herbariums according to standards and conducted seed germination tests and soil tests.
 - During this period, I conducted my undergraduate research on screening selected plant species for the ability of mitigating indoor CO2 levels.
