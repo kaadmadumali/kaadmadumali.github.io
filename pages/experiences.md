@@ -18,7 +18,7 @@
 
 ## PROFESSIONAL EXPERIENCES
 
-### Assistant Manager - Membership, Public Relations & Media - Green Building Council of Sri Lanka [Nov 2019 – Present]
+### Green Building Council of Sri Lanka 
 
 <table>
   <tr>
@@ -29,6 +29,8 @@
   </tr>
 </table>
 
+#### Assistant Manager - Membership, Public Relations & Media [Nov 2019 – Present]
+
 - Manage and oversee Membership, Public Relations & Media Division which involves working with a wide range of counterparts and stakeholders of both government and private sector.
 - Involve in recruiting Associate Professionals and Accredited Professionals to the council.
 - Involve in granting Corporate Memberships to companies and institutes of both government and private sector.
@@ -37,7 +39,7 @@
 - Coordinate discussions/meetings/visits with the printed and electronic media organizations.
 - Working as the Chief Editor - [Green Guardian](https://srilankagbc.org/category/green-guardian/) magazine, the bimonthly green building publication focusing on trends in green building construction, certified solutions and sustainability.
 
-### Executive - Membership, Public Relations & Media - Green Building Council of Sri Lanka [May 2019 – Nov 2019]
+#### Executive - Membership, Public Relations & Media [May 2019 – Nov 2019]
 
 <table>
   <tr>
@@ -61,7 +63,7 @@
 - Coordinated the 10th Anniversary Celebrations and Green Building Awards 2019 of Green Building Council of Sri Lanka.
   - Annual Green Building Awards is the ceremonial event which offers awards and certificates to Green SL Rated Buildings and Green SL Labelled Products. This also offers awards and certificates to the Corporate, Accredited and Associate Members of the GBCSL who enlisted in the respective year.
 
-### Management Trainee - Green Building Council of Sri Lanka [Nov 2018 – May 2019]
+#### Management Trainee [Nov 2018 – May 2019]
 
 <table>
   <tr>
@@ -77,11 +79,11 @@
 - Coordinated 7th Green Building Awards 2019 of Green Building Council of Sri Lanka.
   - Annual Green Building Awards is the ceremonial event which offers awards and certificates to Green SL Rated Buildings and Green SL Labelled Products. This also offers awards and certificates to the Corporate, Accredited and Associate Members of the GBCSL who enlisted in the respective year.
 
-### Organizer/Event Coordinator of 9th International Conference on Sustainable Built Environment
+#### Organizer/Event Coordinator of 9th International Conference on Sustainable Built Environment
 
 International Conference on Sustainable Built Environment is an annually held conference which provides a platform for the researchers and scientists to publish their research works, innovations and to have discussions on science related topics. The event was on 13th, 14th and 15th December 2018 at Earl's Regency Hotel, Kandy with the participation of several local and foreign professors, researchers, etc.
 
-### Demonstrator - Computer Unit, Faculty of Agriculture, University of Ruhuna [Apr 2018 – Nov 2018]
+### Computer Unit, Faculty of Agriculture, University of Ruhuna
 
 <table>
   <tr>
@@ -92,10 +94,12 @@ International Conference on Sustainable Built Environment is an annually held co
   </tr>
 </table>
 
+#### Demonstrator [Apr 2018 – Nov 2018]
+
 - Maintained the faculty network system and assisted with all of the hardware and software problems of the computers in the Dean’s office, library and every department of the faculty.
 - Conducted practical classes for undergraduates related to the above courses: Computer Awareness, Information and Communication Technology, Database Systems, and Rapid Application Developments.
 
-### Research Intern - National Institute of Fundamental Studies (NIFS), Sri Lanka [May 2017 – Dec 2017]
+### National Institute of Fundamental Studies (NIFS), Sri Lanka
 
 <table>
   <tr>
@@ -105,6 +109,8 @@ International Conference on Sustainable Built Environment is an annually held co
     </td>
   </tr>
 </table>
+
+#### Research Intern [May 2017 – Dec 2017]
 
 - I joined the research conducted in Plant taxonomy and Conservation sub division which comes under the Earth, Environment and BioDiversity main division, out of six main divisions of the NIFS. Major areas covered in this program include
   - taxonomic and bio-geographical studies of the flora of Sri Lanka
