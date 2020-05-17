@@ -41,15 +41,6 @@
 
 #### Executive - Membership, Public Relations & Media [May 2019 – Nov 2019]
 
-<table>
-  <tr>
-    <td><img src="../images/gbcsl.png"></td>
-    <td>
-      <a href="https://www.srilankagbc.org">Green Building Council of Sri Lanka (GBCSL)</a> is the Sri Lanka’s leading authority on implementing green concept and green building practices. The GBCSL is a member of World Green Building Council , assure the international recognition, which represents about 80 countries ranging from developed to developing nations.
-    </td>
-  </tr>
-</table>
-
 - Issued three publications of the [Green Guardian](https://srilankagbc.org/category/green-guardian/) magazine, working as the Chief Editor of the Editorial Board of the Green Guardian.
   - Renewable Energy - [https://srilankagbc.org/renewable-energy/](https://srilankagbc.org/renewable-energy/)
   - Sustainable Tourism - [https://srilankagbc.org/sustainable-tourism/](https://srilankagbc.org/sustainable-tourism/)
@@ -64,15 +55,6 @@
   - Annual Green Building Awards is the ceremonial event which offers awards and certificates to Green SL Rated Buildings and Green SL Labelled Products. This also offers awards and certificates to the Corporate, Accredited and Associate Members of the GBCSL who enlisted in the respective year.
 
 #### Management Trainee [Nov 2018 – May 2019]
-
-<table>
-  <tr>
-    <td><img src="../images/gbcsl.png"></td>
-    <td>
-      <a href="https://www.srilankagbc.org">Green Building Council of Sri Lanka (GBCSL)</a> is the Sri Lanka’s leading authority on implementing green concept and green building practices. The GBCSL is a member of World Green Building Council , assure the international recognition, which represents about 80 countries ranging from developed to developing nations.
-    </td>
-  </tr>
-</table>
 
 - Handled Membership and Public Relations Division which involves recruiting Associate, Accredited and Corporate Members.
 - Engaged in managing social media and web platforms of the council.
