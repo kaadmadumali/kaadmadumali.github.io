@@ -18,7 +18,7 @@
 
 ## PROFESSIONAL EXPERIENCES
 
-### Green Building Council of Sri Lanka 
+### Green Building Council of Sri Lanka
 
 <table>
   <tr>
@@ -79,7 +79,7 @@
 - Coordinated 7th Green Building Awards 2019 of Green Building Council of Sri Lanka.
   - Annual Green Building Awards is the ceremonial event which offers awards and certificates to Green SL Rated Buildings and Green SL Labelled Products. This also offers awards and certificates to the Corporate, Accredited and Associate Members of the GBCSL who enlisted in the respective year.
 
-#### Organizer/Event Coordinator of 9th International Conference on Sustainable Built Environment
+#### Organizer/Event Coordinator of 9th International Conference on Sustainable Built Environment [Nov 2018]
 
 International Conference on Sustainable Built Environment is an annually held conference which provides a platform for the researchers and scientists to publish their research works, innovations and to have discussions on science related topics. The event was on 13th, 14th and 15th December 2018 at Earl's Regency Hotel, Kandy with the participation of several local and foreign professors, researchers, etc.
 
